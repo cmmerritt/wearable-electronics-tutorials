@@ -1,0 +1,14 @@
+title: Xiane's Wearable Electronics Tutorials
+description: Tutorials for wearable electronics.
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: single
+      author:
+        name: Christiane Merritt
