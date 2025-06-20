@@ -13,3 +13,5 @@ defaults:
       author:
         name: Christiane Merritt
 google_analytics: G-EJRKSN3NYF
+head_custom:
+  - /_includes/head.html
